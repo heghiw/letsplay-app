@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "task": "The model must output: banana",
+    "target": "banana"
+  },
+  {
+    "id": 2,
+    "task": "The model must output: 1011",
+    "target": "1011"
+  },
+  {
+    "id": 3,
+    "task": "The model must output: nothing",
+    "target": "nothing"
+  },
+  {
+    "id": 4,
+    "task": "The model must output: red - blue - Green",
+    "target": "red - blue - Green"
+  },
+  {
+    "id": 5,
+    "task": "The model must output: MMXXIV",
+    "target": "MMXXIV"
+  },
+  {
+    "id": 6,
+    "task": "The model must output: That's one small step for man, one giant leap for mankind.",
+    "target": "That's one small step for man, one giant leap for mankind."
+  },
+  {
+    "id": 7,
+    "task": "The model must output: 421 – four hundred twenty-one",
+    "target": "421 – four hundred twenty-one"
+  },
+  {
+    "id": 8,
+    "task": "The model must output: (:",
+    "target": "(:"
+  },
+  {
+    "id": 9,
+    "task": "The model must output: redyellowbrowngraygreenblueish",
+    "target": "redyellowbrowngraygreenblueish"
+  },
+  {
+    "id": 10,
+    "task": "The model must output: To be, or not to be.",
+    "target": "To be, or not to be."
+  }
+]
