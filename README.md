@@ -1,7 +1,7 @@
 
 # Prompt Challenge Game
 
-A Streamlit app where players write prompts to match target outputs using GPT-3.5.
+A Streamlit app where players write prompts to match target outputs using GPT-3.5. Was used for GenAI training / initally deployed using GCP
 
 ## How to Run
 
